@@ -143,3 +143,7 @@ int main() {
 
 	return 0;
 }
+mevinx
+$ git add -A
+$ git commit -m 'Testing Travis CI'
+$ git pus
